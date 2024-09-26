@@ -251,5 +251,8 @@ int main() {
 ```
 
 **_Results_**
+
+```cpp
 Dog barks.
 Cat meows.
+```
