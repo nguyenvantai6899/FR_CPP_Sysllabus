@@ -1,4 +1,4 @@
 *.exe
 test.cpp
-/.vscode/
-/.build/
+*/.vscode/
+*/.build/
