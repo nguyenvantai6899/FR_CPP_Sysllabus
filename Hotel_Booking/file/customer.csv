@@ -1,0 +1,5 @@
+CustomerID,Name,Email,Phone,RoomID
+1,Nguyen Van A,nguyenvana@example.com,0123456789,1
+2,Tran Thi B,tranthib@example.com,0987654321,3
+3,Le Van C,levanc@example.com,0112233445,2
+4,Pham Thi D,phamthid@example.com,0122334455,5

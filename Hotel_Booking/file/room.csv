@@ -1,0 +1,7 @@
+RoomID,RoomType,Price,Status
+1,Single,50.00,Available
+2,Double,75.00,Available
+3,Suite,150.00,Occupied
+4,Single,50.00,Available
+5,Double,75.00,Occupied
+6,Suite,150.00,Available
